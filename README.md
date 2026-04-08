@@ -1,4 +1,3 @@
-# .github
 # Desenvolvimento Web – Projeto
 
 ## Objetivo
