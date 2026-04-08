@@ -25,3 +25,23 @@ Sua aplicação deve conter:
 ---
 
 ## Estrutura do projeto
+/static
+/css
+/js
+/templates
+app.py
+requirements.txt
+
+
+- **static/**: arquivos estáticos (CSS, JS)
+- **templates/**: páginas HTML (Jinja2)
+- **app.py**: aplicação Flask
+
+---
+
+## Como executar o projeto
+
+### 1. Criar ambiente virtual
+
+```bash
+python -m venv venv
